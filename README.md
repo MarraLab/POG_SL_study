@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1256380352.svg)](https://doi.org/10.5281/zenodo.23045562)
+
 # metaGRETTA patient-aligned synthetic-lethality screening
 
 This directory contains the publication-facing workflow used to identify
